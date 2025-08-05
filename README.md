@@ -4,7 +4,7 @@ A comprehensive IoT-based monitoring solution that combines ESP32-CAM hardware w
 
 ## Demo Video
 
-![System Demo](https://github.com/msmahdinejad/smart-monitoring-system/raw/refs/heads/main/Docs/Video.mp)
+[System Demo](https://github.com/msmahdinejad/smart-monitoring-system/raw/refs/heads/main/Docs/Video.mp)
 
 ## Overview
 
