@@ -4,7 +4,7 @@ A comprehensive IoT-based monitoring solution that combines ESP32-CAM hardware w
 
 ## Demo Video
 
-![System Demo]([docs/images/demo-thumbnail.png](https://github.com/msmahdinejad/smart-monitoring-system/raw/refs/heads/main/Docs/Video.mp4))
+![System Demo](https://github.com/msmahdinejad/smart-monitoring-system/raw/refs/heads/main/Docs/Video.mp)
 
 ## Overview
 
@@ -14,35 +14,35 @@ The system is designed for various monitoring scenarios including security surve
 
 ## System Screenshots
 ### 1. ESP32-CAM Web Dashboard
-![ESP32-CAM Dashboard](docs/images/5.png)
+![ESP32-CAM Dashboard](Docs/5.png)
 ESP32-CAM built-in web interface showing system status, camera settings, and direct access to live stream and capture functions.
 
 ### 2. Python System - Live Stream Interface
-![Live Stream Interface](docs/images/6.png)
+![Live Stream Interface]Docs/6.png)
 Main web interface displaying live camera stream with monitoring controls, system status, and configuration options.
 
 ### 3. AI Monitoring Configuration
-![AI Monitoring Setup](docs/images/7.png)
+![AI Monitoring Setup](Docs/7.png)
 Comprehensive monitoring setup page allowing users to configure monitoring types, analysis styles, intervals, and custom instructions for AI analysis.
 
 ### 4. Analysis History Dashboard
-![History Dashboard](docs/images/8.png)
+![History Dashboard](Docs/8.png)
 Historical analysis results with detailed view of past monitoring sessions, including images, videos, AI analysis reports, and threat level assessments.
 
 ### 5. Telegram Bot Main Menu
-![Telegram Bot Start](docs/images/1.png)
+![Telegram Bot Start](Docs/1.png)
 Interactive Telegram bot main menu with button-based navigation for remote system control, image capture, monitoring management, and status checking.
 
 ### 6. Telegram Notifications & Reports
-![Telegram Notifications](docs/images/2.png)
+![Telegram Notifications](Docs/2.png)
 Real-time notifications sent to Telegram including analysis results, captured images, threat level alerts, and automatic video delivery for high-priority detections.
 
 ### 7. Telegram History Viewer
-![Telegram History](docs/images/3.png)
+![Telegram History](Docs/3.png)
 Telegram bot history interface showing recent monitoring records, analysis summaries, and quick access to detailed reports with media playback.
 
 ### 8. Telegram Monitoring Setup Wizard
-![Telegram Monitoring Setup](docs/images/4.png)
+![Telegram Monitoring Setup](Docs/4.png)
 Step-by-step monitoring configuration through Telegram bot, including monitoring type selection, analysis style options, interval settings, and custom instruction input.
 
 ## Architecture
