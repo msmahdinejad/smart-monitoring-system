@@ -514,3 +514,12 @@ After complete setup, your system will be ready for intelligent environmental mo
 - Encrypted communications
 - Access control mechanisms
 - Privacy compliance features
+
+## Acknowledgments
+
+- **Claude Sonnet 4** for AI-assisted development and code architecture guidance
+- ESP32-CAM community for hardware insights and optimization techniques
+- AvalAI for providing powerful AI analysis capabilities
+- Telegram Bot API for comprehensive messaging integration
+- OpenCV community for advanced video processing tools
+- Flask framework contributors for robust web development support
