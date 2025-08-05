@@ -4,7 +4,7 @@ A comprehensive IoT-based monitoring solution that combines ESP32-CAM hardware w
 
 ## Demo Video
 
-[System Demo](https://github.com/msmahdinejad/smart-monitoring-system/raw/refs/heads/main/Docs/Video.mp)
+[Download System Demo](https://github.com/msmahdinejad/smart-monitoring-system/raw/refs/heads/main/Docs/Video.mp4)
 
 ## Overview
 
@@ -18,7 +18,7 @@ The system is designed for various monitoring scenarios including security surve
 ESP32-CAM built-in web interface showing system status, camera settings, and direct access to live stream and capture functions.
 
 ### 2. Python System - Live Stream Interface
-![Live Stream Interface]Docs/6.png)
+![Live Stream Interface](Docs/6.png)
 Main web interface displaying live camera stream with monitoring controls, system status, and configuration options.
 
 ### 3. AI Monitoring Configuration
