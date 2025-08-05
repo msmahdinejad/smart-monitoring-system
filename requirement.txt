@@ -1,0 +1,14 @@
+# ==================== Core Web Framework ====================
+Flask==3.0.0
+requests==2.31.0
+
+# ==================== Telegram Bot ====================
+python-telegram-bot==20.7
+
+# ==================== Computer Vision & Video Processing ====================
+opencv-python==4.8.1.78
+numpy==1.24.4
+Pillow==10.1.0
+
+# ==================== Date & Time Handling ====================
+python-dateutil==2.8.2
