@@ -269,7 +269,7 @@ brew install ffmpeg
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/smart-monitoring-system.git
+git clone https://github.com/msmahdinejad/smart-monitoring-system.git
 cd smart-monitoring-system
 
 # Install dependencies
